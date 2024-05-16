@@ -26,7 +26,7 @@ main {
     align-items: center;
 }
 
-#playButton, #bunPayButton {
+#playButton, #moneySupportButton {
     width: 200px;
     height: 50px;
     color: white;
@@ -46,11 +46,11 @@ main {
     background-color: #0000cc;
 }
 
-#bunPayButton {
+#moneySupportButton {
     background-color: #8bdce8;
 }
 
-#bunPayButton:hover {
+#moneySupportButton:hover {
     background-color: #76c7d2;
 }
 
